@@ -1,6 +1,15 @@
 # Hi, I'm Erik Koster
 
 <p align="center">
+	<a href="#pt-br--sobre-mim">
+		<img src="https://img.shields.io/badge/Leia%20em-PT--BR-00c2ff?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Ler em Portugues" />
+	</a>
+	<a href="#en--about-me">
+		<img src="https://img.shields.io/badge/Read%20in-English-1f6feb?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in English" />
+	</a>
+</p>
+
+<p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00f5ff,50:005bea,100:7b2ff7&text=Robotics%20Programmer&fontColor=ffffff&fontAlignY=36&desc=Automation%20%7C%20AI%20%7C%20Code&descAlignY=56" alt="Robotics futuristic banner" />
 </p>
 
