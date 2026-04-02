@@ -9,14 +9,6 @@
 	</a>
 </p>
 
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00f5ff,50:005bea,100:7b2ff7&text=Robotics%20Programmer&fontColor=ffffff&fontAlignY=36&desc=Automation%20%7C%20AI%20%7C%20Code&descAlignY=56" alt="Robotics futuristic banner" />
-</p>
-
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+the+future+with+robotics+and+software;Python+%2B+JavaScript+%2B+Automation;From+code+to+real-world+robotic+systems" alt="typing animation" />
-</p>
-
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=erik759503&label=Profile%20views&color=0e75b6&style=flat" alt="erik759503" />
 </p>
