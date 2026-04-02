@@ -17,12 +17,6 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+the+future+with+robotics+and+software;Python+%2B+JavaScript+%2B+Automation;From+code+to+real-world+robotic+systems" alt="typing animation" />
 </p>
 
-<p align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHozdW4wOXRrd3QwMjY0M3dydHJrb2xibzIwbjVxMnV4NXN4dnh4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="280" alt="futuristic code animation" />
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N5dzJjb3J0dDA0bnJuMjV6dzh6OHFyZWo3dmN0enQ2M2I3NGdtNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRzozg4TCBXv6QU/giphy.gif" width="280" alt="robotics animation" />
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhncnF2cDM4NXMxZmN3NjR6emhzeWY4N2QxM2xoejNmbGw2dnA4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="ai cyber animation" />
-</p>
-
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=erik759503&label=Profile%20views&color=0e75b6&style=flat" alt="erik759503" />
 </p>
